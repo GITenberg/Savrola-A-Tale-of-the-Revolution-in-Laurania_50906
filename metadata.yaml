@@ -1,4 +1,8 @@
 _repo: Savrola-A-Tale-of-the-Revolution-in-Laurania_50906
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50906-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Churchill, Winston
@@ -11,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1601
     wikipedia: http://en.wikipedia.org/wiki/Winston_Churchill
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50906#Savrola-A-Tale-of-the-Revolution-in-Laurania
 gutenberg_issued: '2016-01-24'
 gutenberg_type: Text
 identifiers:
